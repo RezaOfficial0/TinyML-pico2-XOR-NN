@@ -145,4 +145,6 @@ The training code uses NumPy on the computer. The Pico inference code uses only 
 
 ## License
 
-Choose and add a license before presenting the repository as open source. No license is implied by this README.
+## License
+
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
